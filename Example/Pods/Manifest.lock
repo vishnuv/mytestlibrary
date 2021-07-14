@@ -1,0 +1,16 @@
+PODS:
+  - vishnuTestLibrary (0.1.0)
+
+DEPENDENCIES:
+  - vishnuTestLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  vishnuTestLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  vishnuTestLibrary: bf65b69487f57a623bee4269a7cb362166b1ac46
+
+PODFILE CHECKSUM: 152cdd63777d9fa8bbef591def6a3eaba545a788
+
+COCOAPODS: 1.10.1

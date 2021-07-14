@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'vishnuTestLibrary_Example' do
+  pod 'vishnuTestLibrary', :path => '../'
+
+  target 'vishnuTestLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,6 @@
+framework module vishnuTestLibrary {
+  umbrella header "vishnuTestLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

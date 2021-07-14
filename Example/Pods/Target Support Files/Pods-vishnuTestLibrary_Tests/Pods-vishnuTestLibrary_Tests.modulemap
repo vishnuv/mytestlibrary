@@ -1,0 +1,6 @@
+framework module Pods_vishnuTestLibrary_Tests {
+  umbrella header "Pods-vishnuTestLibrary_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
